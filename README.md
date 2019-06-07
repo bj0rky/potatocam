@@ -4,7 +4,7 @@
 - Some old potatoes
 - 1x TTGO ESP32CAM 
 - 1x "10k mA" batterybank
-- 1x H*t Se**y Denmin micro-usb cable
+- 1x H*t Se**y Denim micro-usb cable
 - Some cable ties, IP67 junction box
 
 
